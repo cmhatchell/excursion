@@ -23,11 +23,13 @@ h2 {
   font-size: 42px;
 }
 
-p {
+p,
+footer {
+  font-size: 21px;
   color: grey;
 }
 
 footer {
   text-align: right;
-  color: grey;
+
 }
