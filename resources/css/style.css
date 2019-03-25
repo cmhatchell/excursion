@@ -3,14 +3,31 @@ body {
   text-align: center;
   font-family: Verdana, Geneva, sans-serif;
 }
+
 .header h1 {
   font-weight: normal;
   font-size: 50px;
-  color: white;
 }
 
 .link--download {
   font-size: 16px;
   color: aquamarine;
-  
+}
+
+h1,
+h2 {
+  color: white;
+}
+h2 {
+  font-weight: 300px;
+  font-size: 42px;
+}
+
+p {
+  color: grey;
+}
+
+footer {
+  text-align: right;
+  color: grey;
 }
